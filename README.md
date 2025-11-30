@@ -35,7 +35,7 @@ go-movies-crud/
 🏁 Como executar
 
 1. Clonar o repositório
-git clone https://github.com/teu-usuario/go-movies-crud.git
+git clone https://github.com/mfigueiredo87/Projecto_Go-movies-crud.git
 cd go-movies-crud
 
 2. Inicializar o módulo Go (caso ainda não exista)
